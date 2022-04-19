@@ -13,6 +13,7 @@
 		DDA433C4280ED5550071F67A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA433C2280ED5550071F67A /* Main.storyboard */; };
 		DDA433C6280ED5560071F67A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDA433C5280ED5560071F67A /* Assets.xcassets */; };
 		DDA433C9280ED5560071F67A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA433C7280ED5560071F67A /* LaunchScreen.storyboard */; };
+		DDA433D1280ED9BA0071F67A /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA433D0280ED9BA0071F67A /* APICaller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DDA433C5280ED5560071F67A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDA433C8280ED5560071F67A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDA433CA280ED5560071F67A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDA433D0280ED9BA0071F67A /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DDA433BC280ED5550071F67A /* AppDelegate.swift */,
 				DDA433BE280ED5550071F67A /* SceneDelegate.swift */,
 				DDA433C0280ED5550071F67A /* ViewController.swift */,
+				DDA433D0280ED9BA0071F67A /* APICaller.swift */,
 				DDA433C2280ED5550071F67A /* Main.storyboard */,
 				DDA433C5280ED5560071F67A /* Assets.xcassets */,
 				DDA433C7280ED5560071F67A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				DDA433C1280ED5550071F67A /* ViewController.swift in Sources */,
 				DDA433BD280ED5550071F67A /* AppDelegate.swift in Sources */,
 				DDA433BF280ED5550071F67A /* SceneDelegate.swift in Sources */,
+				DDA433D1280ED9BA0071F67A /* APICaller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
